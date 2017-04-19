@@ -1,6 +1,6 @@
 # npmtest-less-plugin-clean-css
 
-#### test coverage for  [less-plugin-clean-css (v1.5.1)](http://lesscss.org)  [![npm package](https://img.shields.io/npm/v/npmtest-less-plugin-clean-css.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-less-plugin-clean-css) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-less-plugin-clean-css.svg)](https://travis-ci.org/npmtest/node-npmtest-less-plugin-clean-css)
+#### basic test coverage for  [less-plugin-clean-css (v1.5.1)](http://lesscss.org)  [![npm package](https://img.shields.io/npm/v/npmtest-less-plugin-clean-css.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-less-plugin-clean-css) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-less-plugin-clean-css.svg)](https://travis-ci.org/npmtest/node-npmtest-less-plugin-clean-css)
 
 #### clean-css plugin for less.js
 
